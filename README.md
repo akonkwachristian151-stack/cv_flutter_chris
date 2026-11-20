@@ -5,7 +5,7 @@ Application mobile Flutter présentant mon CV, ma famille et mes coordonnées.
 
 ## 1. PAGE DE CONNEXION
 
-![Connexion](screenshots/connexion .jpg)
+![Connexion](screenshots/connexion.jpg)
 
 ## 2. PAGE D'ACCUEIL - MON CV
 
@@ -19,9 +19,9 @@ Application mobile Flutter présentant mon CV, ma famille et mes coordonnées.
 
 ![Famille](screenshots/famille.jpg)
 
-![Famille suite 1](screenshots/faimille1.jpg)
+![Famille suite 1](screenshots/famille1.jpg)
 
-![Famille suite 2](screenshots/faamille2.jpg)
+![Famille suite 2](screenshots/famille2.jpg)
 
 ## 4. PAGE CONTACT
 
